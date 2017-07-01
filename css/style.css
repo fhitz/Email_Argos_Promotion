@@ -3,7 +3,7 @@ body {
 	background-color:#ffffff;
 }
 
-.maincontainer {
+.container {
 	margin:0 auto; 
 	border-collapse:collapse;
 	border-spacing:0;
@@ -13,7 +13,7 @@ body {
 	float: center;
 }
 
-.maincontainer tr {
+.container tr {
 	border-collapse: collapse; 
 	border-spacing: 0;
 	text-align: left;
